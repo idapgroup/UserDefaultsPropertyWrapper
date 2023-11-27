@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name      = "UserDefaultsPropertyWrapper"
-  s.version   = "1.0.0"
+  s.version   = "1.0.2"
   s.swift_version = "4.0"
   s.summary   = "UserDefaults @propertyWrapper class."
   s.description  = "Property wrapper class that allows you to create properties that are stored in user defaults and makes it easy to work with them."
