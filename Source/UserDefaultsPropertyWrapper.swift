@@ -51,7 +51,7 @@ public class UserDefaultWrapper<Value> {
     // MARK: -
     // MARK: Initializations
 
-    init(
+    public init(
         key: String,
         defaultValue: Value,
         defaults: UserDefaults = .standard,
